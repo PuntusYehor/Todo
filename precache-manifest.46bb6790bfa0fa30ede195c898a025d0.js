@@ -20,27 +20,27 @@ self.__precacheManifest = [
     "url": "/Todo/static/js/2.365108eb.chunk.js"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/Todo/static/media/fontawesome-webfont.674f50d2.eot"
-  },
-  {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/Todo/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/Todo/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/Todo/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/Todo/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/Todo/static/media/fontawesome-webfont.b06871f2.ttf"
+  },
+  {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/Todo/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "92df2810943aa6cfe16782978db69206",
+    "revision": "8a8f00c282b778b77038fba82caa656d",
     "url": "/Todo/index.html"
   }
 ];
