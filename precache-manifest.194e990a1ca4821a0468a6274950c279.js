@@ -20,10 +20,6 @@ self.__precacheManifest = [
     "url": "/Todo/static/js/2.365108eb.chunk.js"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/Todo/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/Todo/static/media/fontawesome-webfont.af7ae505.woff2"
   },
@@ -36,11 +32,15 @@ self.__precacheManifest = [
     "url": "/Todo/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/Todo/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/Todo/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "8a8f00c282b778b77038fba82caa656d",
+    "revision": "95bad23e414c245c19631f5515a1318a",
     "url": "/Todo/index.html"
   }
 ];
